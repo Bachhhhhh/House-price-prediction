@@ -1,10 +1,10 @@
-# 🏠 House Price Prediction in Ho Chi Minh City
+# House Price Prediction in Ho Chi Minh City
 
 This repository contains a complete end-to-end data science workflow for predicting house prices in Ho Chi Minh City, Vietnam. The project covers **web scraping**, **data preprocessing**, **exploratory data analysis**, **feature engineering**, **machine learning modeling**, and **deep learning experiments**.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [Project Overview](#project-overview)
 - [Work Flow](#work-flow)
 - [Challenges Encountered](#challenges-encountered)
@@ -13,7 +13,7 @@ This repository contains a complete end-to-end data science workflow for predict
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 The goal of this project is to build a predictive system that estimates house prices based on real-world data scraped from: https://batdongsan.vn/ban-nha/
 
@@ -26,7 +26,7 @@ The workflow includes:
 
 ---
 
-## 📂 Work Flow
+## Work Flow
 
 ### **1. `Data Collection`**
 - Extracts URL tails used for crawling.
@@ -96,7 +96,7 @@ A **basic deep learning model** was also trained to compare performance.
 
 ---
 
-## 🧾 Conclusion
+## Conclusion
 
 The House Price Prediction project is a comprehensive data science exercise that applies the knowledge we gained from the Introduction to Data Science course. 
 Throughout this project, we completed an end-to-end real-world data pipeline and accumulated valuable experience in solving predictive modeling problems. 
@@ -107,7 +107,7 @@ We believe that the lessons learned from this project will serve as a strong fou
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 - **Pham Le Hong Duc**  
 - **Truong Binh Ba**  
